@@ -1,0 +1,15 @@
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\bin\Debug\net6.0\FilesManipulation.exe
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\bin\Debug\net6.0\FilesManipulation.deps.json
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\bin\Debug\net6.0\FilesManipulation.runtimeconfig.json
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\bin\Debug\net6.0\FilesManipulation.dll
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\bin\Debug\net6.0\FilesManipulation.pdb
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.csproj.AssemblyReference.cache
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.AssemblyInfoInputs.cache
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.AssemblyInfo.cs
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.csproj.CoreCompileInputs.cache
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.dll
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\refint\FilesManipulation.dll
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.pdb
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\FilesManipulation.genruntimeconfig.cache
+C:\Users\isaqu\desktop\VisualStudio\FilesManipulation\FilesManipulation\obj\Debug\net6.0\ref\FilesManipulation.dll
